@@ -1,4 +1,4 @@
-const baseURL = "https://swapi.co/api/";
+const url = "https://swapi.co/api/";
 
 function getData(url, cb) {
     var xhr = new XMLHttpRequest();
